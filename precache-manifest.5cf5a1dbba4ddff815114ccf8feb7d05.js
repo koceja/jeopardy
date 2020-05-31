@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e04aa167a3ff6516eef3c6a2fbcc631",
+    "revision": "541e60dbe63077141a44c8f104228c6f",
     "url": "/jeopardy/index.html"
   },
   {
