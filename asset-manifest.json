@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/jeopardy/static/css/main.ef989179.chunk.css",
-    "main.js": "/jeopardy/static/js/main.4afcc448.chunk.js",
-    "main.js.map": "/jeopardy/static/js/main.4afcc448.chunk.js.map",
+    "main.css": "/jeopardy/static/css/main.aec00142.chunk.css",
+    "main.js": "/jeopardy/static/js/main.c6db3bf2.chunk.js",
+    "main.js.map": "/jeopardy/static/js/main.c6db3bf2.chunk.js.map",
     "runtime-main.js": "/jeopardy/static/js/runtime-main.83f780aa.js",
     "runtime-main.js.map": "/jeopardy/static/js/runtime-main.83f780aa.js.map",
     "static/js/2.0b5cc697.chunk.js": "/jeopardy/static/js/2.0b5cc697.chunk.js",
     "static/js/2.0b5cc697.chunk.js.map": "/jeopardy/static/js/2.0b5cc697.chunk.js.map",
     "index.html": "/jeopardy/index.html",
-    "precache-manifest.4de6101e22c57f50f23854fc526f4709.js": "/jeopardy/precache-manifest.4de6101e22c57f50f23854fc526f4709.js",
+    "precache-manifest.1c8ce627b12fee12a053bea8a1c9d3af.js": "/jeopardy/precache-manifest.1c8ce627b12fee12a053bea8a1c9d3af.js",
     "service-worker.js": "/jeopardy/service-worker.js",
-    "static/css/main.ef989179.chunk.css.map": "/jeopardy/static/css/main.ef989179.chunk.css.map",
+    "static/css/main.aec00142.chunk.css.map": "/jeopardy/static/css/main.aec00142.chunk.css.map",
     "static/js/2.0b5cc697.chunk.js.LICENSE.txt": "/jeopardy/static/js/2.0b5cc697.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.83f780aa.js",
     "static/js/2.0b5cc697.chunk.js",
-    "static/css/main.ef989179.chunk.css",
-    "static/js/main.4afcc448.chunk.js"
+    "static/css/main.aec00142.chunk.css",
+    "static/js/main.c6db3bf2.chunk.js"
   ]
 }
